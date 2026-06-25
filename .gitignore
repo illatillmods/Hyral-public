@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!ARCHITECTURE.md
+!ROADMAP.md
+!SECURITY.md
+!FAQ.md
+!NOTICE.md
+!screenshots/
+!screenshots/.gitkeep
